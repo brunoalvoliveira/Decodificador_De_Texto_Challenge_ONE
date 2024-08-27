@@ -18,7 +18,7 @@ Exemplo:
 
 ## Variáveis
 
-========= CSS
+========= CSS =========
 :root {
   --dark-blue-100: #609ED4;
   --dark-blue-200: #356EA9;
